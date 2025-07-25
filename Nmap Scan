@@ -1,4 +1,6 @@
-nmap -p- -A -T4 192.168.171.130
+
+`nmap -p- -A -T4 192.168.171.130`
+
 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-28 03:24 EDT
 Stats: 0:00:13 elapsed; 0 hosts completed (1 up), 1 undergoing Service Scan
 Service scan Timing: About 11.11% done; ETC: 03:25 (0:00:48 remaining)
